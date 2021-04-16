@@ -11,10 +11,9 @@ Skills: C|| C++ || Java || HTML || CSS ||
 
 - 🔭 I’m currently working on  my DSA skills to get me better in competitive programming. 
 - 🌱 I’m currently learning a lottt 
-
+- 📫 How to reach me: kumar.aayush2310@gmail.com 
+- 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aayush-kumar-2310)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aayush-kumar-537844206/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/virus_07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/virus2310)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayush-kumar-2310)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aayush-kumar-2310)  
 
